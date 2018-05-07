@@ -1,6 +1,5 @@
-
 ---
-title: Hello World
+title: Longest common prefix
 date: 2018-01-09 00:00:00
 categories:
 - test/test
